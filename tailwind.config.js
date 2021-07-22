@@ -58,7 +58,7 @@ module.exports = {
 
       black: '#000',
       white: '#fff',
-
+      
       green: {
         100: '#f0fff4',
         200: '#c6f6d5',
@@ -81,6 +81,18 @@ module.exports = {
         700: '#4a5568',
         800: '#2d3748',
         900: '#1a202c',
+      },
+
+      blue: {
+        100: '#DBEAFE',
+        200: '#BFDBFE',
+        300: '#93C5FD',
+        400: '#60A5FA',
+        500: '#3B82F6',
+        600: '#2563EB',
+        700: '#1D4ED8',
+        800: '#1E40AF',
+        900: '#1E3A8A',
       },
     },
     fontFamily: {
